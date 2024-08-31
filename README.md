@@ -36,3 +36,14 @@ npm run start:dev
 
 - Use `npm run start:dev` for development, which runs both client and server concurrently.
 - Use `npm run start` for production, which builds the client and starts the server.
+
+## ⚒️ Technologies Used
+
+- **Workbox**: For implementing service workers and caching strategies.
+- **IndexedDB**: For storing and retrieving data locally in the browser.
+- **Webpack**: For bundling JavaScript files and assets.
+- **Babel**: For transpiling modern JavaScript to ensure compatibility.
+- **idb**: A library for easier interaction with IndexedDB.
+- **Express.js**: For routing and handling server requests.
+- **Node.js**: The runtime environment for executing JavaScript on the server.
+- **JavaScript**: The programming language used to build the application logic.
