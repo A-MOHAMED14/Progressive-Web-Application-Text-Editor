@@ -1,5 +1,7 @@
 # Progressive Web Application (PWA): Text-Editor
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Description
 
 This is a Progressive Web Application (PWA) text editor that runs in the browser, designed to work both online and offline. The application uses IndexedDB, with the help of the idb package, to store and retrieve data efficiently. It leverages Webpack for bundling JavaScript files and automatically generating the HTML, service worker, and manifest files. The service worker, implemented using Workbox, ensures that static assets are pre-cached for offline use. The app also includes an "Install" button for downloading the web application as a desktop icon.
@@ -72,3 +74,7 @@ git push origin feature/your-feature-name
 ```
 
 5. Open a pull request to the main repository, describing your changes in detail.
+
+## 📄 License
+
+This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the original copyright notice and permission notice are included in all copies or substantial portions of the software. For more details, see the MIT [LICENSE](https://opensource.org/licenses/MIT) file.
