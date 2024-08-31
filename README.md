@@ -23,3 +23,16 @@ cd PWA-Text-Editor
 ```sh
 npm run install
 ```
+
+## 🏗️ Usage
+
+To start the application, run the following command:
+
+```sh
+npm run start:dev
+```
+
+### Notes
+
+- Use `npm run start:dev` for development, which runs both client and server concurrently.
+- Use `npm run start` for production, which builds the client and starts the server.
