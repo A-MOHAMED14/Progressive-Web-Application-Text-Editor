@@ -18,6 +18,10 @@ This is a Progressive Web Application (PWA) text editor that runs in the browser
 
 ## 🎥 Video Walkthrough
 
+The following video demonstrates the application functionality:
+
+[![Watch the video](./screenshots/demo-thumbnail.png)](https://drive.google.com/file/d/1H0tsQN1hsYjIXRwebOFvoU75_q1wrhfE/view)
+
 The following image shows the application's manifest.json file:
 
 ![manifest.json file](./screenshots/manifest.json-file.png)
