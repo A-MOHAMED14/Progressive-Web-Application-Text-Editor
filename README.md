@@ -26,6 +26,10 @@ The following image shows the application's registered service worker:
 
 ![service worker](./screenshots/service-worker.png)
 
+The following image shows the application's IndexedDB storage:
+
+![IndexedDB storage](./screenshots/indexedDB-storage.png)
+
 ## 🚀 Installation
 
 1. Clone the Repository:
