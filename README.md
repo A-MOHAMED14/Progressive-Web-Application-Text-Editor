@@ -22,6 +22,10 @@ The following image shows the application's manifest.json file:
 
 ![manifest.json file](./screenshots/manifest.json-file.png)
 
+The following image shows the application's registered service worker:
+
+![service worker](./screenshots/service-worker.png)
+
 ## 🚀 Installation
 
 1. Clone the Repository:
