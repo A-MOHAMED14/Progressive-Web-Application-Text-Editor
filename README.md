@@ -18,6 +18,10 @@ This is a Progressive Web Application (PWA) text editor that runs in the browser
 
 ## 🎥 Video Walkthrough
 
+The following image shows the application's manifest.json file:
+
+![manifest.json file](./screenshots/manifest.json-file.png)
+
 ## 🚀 Installation
 
 1. Clone the Repository:
